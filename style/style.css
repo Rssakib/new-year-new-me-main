@@ -84,11 +84,13 @@
     gap: 99px;
     text-align: center;
 }
+
 .plans-heading {
     text-align: center;
     margin-top: 186px;
     margin-bottom: 50px;
 }
+
 .plans-box h3 {
     margin-top: 10px;
 }
@@ -97,3 +99,55 @@
 
 /* Watch */
 
+.watch {
+    color: rgb(255, 255, 255);
+    margin-left: 105px;
+    margin-top: 130px;
+    background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%), url("../images/watch.png");
+    background-repeat: no-repeat;
+    padding: 103px 70px;
+    margin-bottom: 130px;
+}
+
+.primary-btn2 {
+    background: #ffffff;
+    border: none;
+    padding: 15px;
+    border-radius: 5px;
+    color: #F15B22;
+    margin-top: 24px;
+}
+
+
+
+/* Footer */
+
+.foot {
+    display: flex;
+    background: #151414;
+    padding: 100px;
+    justify-content: center;
+}
+.footer {
+    color: #FFF;
+}
+.primary-btn3 {
+    margin-top: 10px;
+    color: #f15b22;
+    border: none;
+    padding: 11px 11px;
+    border-radius: 5px;
+    background: #FFF;
+}
+.subscribe {
+    color: white;
+}
+.subscribe input {
+    background: var(--Dark-01, #151414);
+    padding: 11px 15px;
+    border: none;
+    border-radius: 8px;
+    border: 1px solid #FFF;
+    margin-top: 15px;
+    margin-bottom: 3px;
+}
