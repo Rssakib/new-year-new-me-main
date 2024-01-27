@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+}
+
+
+/* Header */
+
+.top1 {
+    background: gray;
+    background-image: url("../images/banner/banner1.png");
+    background-repeat: no-repeat;
+    padding: 200px;
+    text-align: right;
+    margin-bottom: 140px;
+}
+
+.heading {
+    width: 525px;
+    font-size: 65px;
+    margin-left: 490px;
+    color: var(--Dark-01, #151414);
+}
+
+.title {
+    width: 400px;
+    font-size: 16px;
+    color: #444343;
+    margin-left: 613px;
+    margin-top: 24px;
+}
+
+.primary-btn {
+    background: #F15B22;
+    border: none;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 15px -64px;
+    margin-top: 32px;
+    color: #FFF;
+}
+
+
+
+/* Main 1 */
+
+.main1 {
+    display: flex;
+    gap: 87px;
+    justify-content: center;
+}
+
+.img {
+    padding: 71px 47px;
+}
+
+.main1-headin {
+    margin-top: 265px;
+    margin-bottom: 24px;
+}
+
+.main1-title {
+
+    width: 416px;
+    font-size: 16px;
+    color: #444343;
+}
+
+.icon {
+    margin-top: 16px;
+    text-decoration: none;
+    font-size: 23px;
+    color: var(--Dark-02, #444343);
+}
+
+.icon i {
+    margin-bottom: 10px;
+}
+
+
+/* My Plans */
+.plans-box {
+    display: flex;
+    justify-content: center;
+    gap: 99px;
+    text-align: center;
+}
+.plans-heading {
+    text-align: center;
+    margin-top: 186px;
+    margin-bottom: 50px;
+}
+.plans-box h3 {
+    margin-top: 10px;
+}
+
+
+
+/* Watch */
+
